@@ -1,0 +1,23 @@
+{
+  "name": "echoroomwebsocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandrakocic/EchoRoomWebSocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandrakocic/EchoRoomWebSocket/issues"
+  },
+  "homepage": "https://github.com/aleksandrakocic/EchoRoomWebSocket#readme",
+  "dependencies": {
+    "websocket": "^1.0.26",
+    "ws": "^5.2.2"
+  }
+}
